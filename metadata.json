@@ -1,0 +1,5 @@
+{
+  "name": "Solana Program Upgrade & Migration System",
+  "description": "A user interface to manage and monitor safe, controlled upgrades of Solana programs with state migration capabilities. This system allows for proposing, approving, and executing upgrades with governance and timelock mechanisms.",
+  "requestFramePermissions": []
+}
